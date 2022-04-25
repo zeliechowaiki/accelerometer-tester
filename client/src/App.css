@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.permit-button {
+  height:50px;
+}
+
+.indicator-dot {
+  left:30%;
+  top:30%;
+}
+
+body {
+  background-color: rgb(163, 195, 196);
+}
